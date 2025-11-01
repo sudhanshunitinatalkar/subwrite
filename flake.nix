@@ -17,7 +17,8 @@
       [
         python312
         python312Packages.requests
-        python312Packages.paho-mqtt     
+        python312Packages.paho-mqtt
+        python312Packages.python-dotenv      
       ];
     };
   };
